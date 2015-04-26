@@ -1,0 +1,22 @@
+{
+  "name": "grunt-demo",
+  "version": "0.0.0",
+  "description": "to check grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "grunt-demo"
+  },
+  "keywords": [
+    "grunt",
+    "demo"
+  ],
+  "author": "anwesh",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
